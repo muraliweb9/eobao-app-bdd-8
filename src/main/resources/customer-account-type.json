@@ -1,0 +1,39 @@
+{
+  "customerAccountTypes": [
+    {
+      "id": "1",
+      "customerType": "RETAIL",
+      "accountType": "SAVINGS"
+    },
+    {
+      "id": "2",
+      "customerType": "RETAIL",
+      "accountType": "CURRENT"
+    },
+    {
+      "id": "3",
+      "customerType": "RETAIL",
+      "accountType": "PREMIER"
+    },
+    {
+      "id": "4",
+      "customerType": "RETAIL",
+      "accountType": "NO_FEE"
+    },
+    {
+      "id": "5",
+      "customerType": "COMMERCIAL",
+      "accountType": "NON_STERLING"
+    },
+    {
+      "id": "6",
+      "customerType": "COMMERCIAL",
+      "accountType": "BUSINESS"
+    },
+    {
+      "id": "7",
+      "customerType": "COMMERCIAL",
+      "accountType": "OFFSHORE"
+    }
+  ]
+}
